@@ -1,0 +1,39 @@
+body{
+    background: url('https://bsmedia.business-standard.com/_media/bs/img/about-page/thumb/808_808/1582899713.png') no-repeat;
+    background-size:  100% 100vh;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul{
+    list-style: none;
+}
+ul li a{
+    text-transform: uppercase;
+    font-weight: bold;
+    color:blanchedalmond;
+    font-size: 0.876em;
+    text-decoration:none;
+    padding: 1em;
+    letter-spacing: 2px;
+}
+ul li a:hover{
+    border-bottom: 3px solid #fff;
+}
+.header h1{
+    margin:0;
+    color:#fff;
+    font-weight: 900;
+    font-size: 3rem;
+    text-align: center;
+}
+.header.content{
+    position: relative;
+    top:50%;
+    font-family: center;
+}
+h1{
+    color:darksalmon;
+}
